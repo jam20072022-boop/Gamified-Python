@@ -1,0 +1,6 @@
+{
+  "name": "PyQuest - Gamified Python, Data & AI Learning",
+  "description": "تطبيق تفاعلي لتعليم لغة بايثون وتحليل البيانات والذكاء الاصطناعي بأسلوب الألعاب والتحديات مع محرر كود مباشر وخريطة مراحل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

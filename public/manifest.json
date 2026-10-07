@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "PyQuest - Gamified Python, Data & AI Learning",
+  "short_name": "PyQuest",
+  "description": "تطبيق تفاعلي لتعليم لغة بايثون وتحليل البيانات والذكاء الاصطناعي بنظام المراحل والتحديات ومحرر الأكواد المباشر",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#10b981",
+  "categories": ["education", "developer tools", "productivity"],
+  "icons": [
+    {
+      "src": "/src/assets/images/pyquest_mascot_avatar_1791276239891.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/src/assets/images/pyquest_mascot_avatar_1791276239891.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/src/assets/images/pyquest_mascot_avatar_1791276239891.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ]
+}
